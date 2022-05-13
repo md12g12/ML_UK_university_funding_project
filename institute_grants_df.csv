@@ -1,0 +1,524 @@
+Supplier,Amount
+University of Oxford,273485094.83
+University College London,265331671.45
+University of Cambridge,228867323.13
+The University of Manchester,177306881.57
+King's College London,130240000.97
+University of Bristol,123334517.77
+Imperial College Science Tech & Med,108839233.75
+University of Nottingham,106098169.55
+University of Leeds,106038212.47
+University of Birmingham,103425982.76
+University of Sheffield,102050085.81
+University of Southampton,101295624.23
+University of Warwick,80114721.2
+University of Edinburgh,76547537.41
+University of Liverpool,75280161.67
+University of Exeter,70745945.84
+University of Glasgow,63620472.25
+University of York,62717864.39
+Queen Mary University of London,61984638.94
+University of Durham,57145017.46
+London School of Hygiene & Tropical Medicine,57077482.82
+Newcastle University,54365561.2
+Lancaster University,51658840.63
+University of Leicester,46776936.75
+Loughborough University,39692584.62
+London School of Economics and Political Science,39238434.1
+University of Surrey,38880503.68
+University of Bath,38183925.24
+ICSTM,35860117.46
+University of Sussex,35816607.28
+University of East Anglia,35041195.77
+University of Reading,34000459.19
+Institute of Cancer Research,30995761.279999997
+Liverpool School of Tropical Medicine,29088202.89
+Imperial College London,27290734.48
+The Alan Turing Institute,26800818.34
+University of Essex,25684457.1
+University of Kent,25618455.59
+Imperial College (Research Awards),24999180.92
+Cranfield University,24950629.82
+The Faraday Institution,24365003.63
+University of Strathclyde,23759477.59
+Brunel University London,21856680.71
+Cardiff University,19943771.330000002
+University of Plymouth,18810880.11
+Open University,18577921.18
+Heriot-Watt University,18464137.34
+Queen's University Belfast,18450041.94
+Swansea University,18132249.77
+Royal Holloway & Bedford New C,17831141.51
+JISC,17830074.35
+"City, University of London",17657800.27
+Culham Centre for Fusion Energy (CCFE),15344784.12
+Aston University,15278561.17
+University of the West of England,15041359.08
+University of Portsmouth,14095233.34
+Royal Veterinary College,13417532.15
+Birkbeck College,13285929.95
+University of St Andrews,13285087.82
+Keele University,12977502.6
+University of Huddersfield,12116020.53
+"University of Wales, Cardiff - UWC",12108704.28
+Manchester Metropolitan University,11715794.96
+University of Hull,11650173.41
+Northumbria University,11593091.28
+Oxford Brookes University,11562574.09
+John Innes Centre,11560621.85
+University of the Arts London,11410131.540000001
+London Business School,10973189.76
+Liverpool John Moores University,10734072.23
+"SOAS, University of London",10466692.67
+University of Greenwich,10441864.04
+University of London,10371749.16
+The Rosalind Franklin Institute,10112491.75
+University of Hertfordshire,10020905.86
+University of Brighton,9928515.69
+University of Newcastle upon Tyne,9813691.77
+University of Salford,9303747.4
+Coventry University,9272680.95
+Goldsmiths College University of London,9209665.36
+Nottingham Trent University,9179115.49
+University of Dundee,9099444.15
+UKRI - Medical Research Council,9081690.64
+University of Lincoln,9052312.040000001
+Sheffield Hallam University,8978843.54
+University of Central Lancashire,8806431.59
+University of Stirling,8275910.46
+University of Newcastle Upon Tyne,7944549.08
+EMBL (European Molecular Biology Laboratory),7937061.62
+Middlesex University,7890073.59
+The Pirbright Institute,7864785.09
+UKRI - Engineering & Physical Sciences Research Council,7509901.84
+UK Centre for Ecology and Hydrology (UKCEH),7314191.4799999995
+Artemis Technologies Ltd,7203571.87
+St George's University of London,7096474.02
+Wellcome Trust,6989483.74
+Royal College of Art,6765157.4399999995
+Anglia Ruskin University,6603315.16
+De Montfort University,6515806.47
+Leeds Beckett University,6237760.08
+University of Westminster,6217291.81
+University of Bradford,5849661.7
+University of Leeds (Research Award,5591816.12
+Quadram Institute Bioscience,4880096.21
+Stem Learning Ltd,4879054.62
+Courtauld Institute of Art,4878159.76
+Birmingham City University,4820094.42
+National Oceanography Centre (NOC),4811365.2
+Roehampton University (University of Roehampton),4752727.62
+Bournemouth University,4724610.38
+Rothamsted Research Ltd,4677260.75
+UKRI - Natural Environment Research Council,4592381.61
+"Royal Holloway, University of London",4512647.47
+NIAB EMR,4396752.66
+Kingston University,4323422.93
+European Bioinformatics Institute,4314220.79
+Institute for Fiscal Studies,4280001.91
+University of Aberdeen,4234058.27
+University of Wolverhampton,3880475.52
+Cardiff University (Research Awards,3778196.75
+University of Bedfordshire,3778127.88
+University of East London,3561892.77
+University of York (Research Awards,3486870.42
+London South Bank University,3476142.95
+Canterbury Christ Church University,3394728.87
+Institute of Development Studies,3364647.2
+University of Chester,3254543.1
+Teesside University,3146139.84
+Bangor University,3041086.19
+UKRI - Economic & Social Research Council,3003144.67
+The National Film & Television School,2956798.4499999997
+The Francis Crick Institute,2844292.1
+University of Derby,2838224.7
+Unspecified,2759679.7800000003
+Zoological Society of London,2674630.1999999997
+National Institute For Agricultural Botany (NIAB),2649434.61
+Babraham Institute,2620296.66
+National Centre for Universities and Business (NCUB),2543185.42
+WCMC,2525298.54
+University of Ulster,2506714.04
+Aberystwyth University,2449153.9
+University of Sunderland,2429898.64
+Earlham Institute,2419949.35
+Edge Hill University College,2397769.16
+UNIVERSITY OF ULSTER,2328939.91
+The Scottish Association for Marine Science (SAMS Group),2305319.72
+Leeds University,2293058.89
+Staffordshire University,2282163.88
+Technology Strategy Board (Innovate UK),2263468.36
+London Metropolitan University,2197539.0
+Royal College of Music,2163620.28
+UKRI - Biotechnology and Biological Sciences Research Council (BBSRC),2122398.98
+Heriot Watt University,2026109.05
+Abertay University,1912507.75
+Plymouth Marine Laboratory clg,1903568.96
+Solent University Ltd,1899150.01
+The Royal Central School of Speech and Drama,1876568.74
+UKRI - Science & Technology Facilities Council,1809038.91
+Guildhall School of Music & Drama,1790679.23
+University of Worcester,1774609.55
+Bradford Teaching Hospitals NHS Trust Foundation,1766199.72
+Royal Northern College of Music,1759727.92
+Harper Adams University College,1735067.54
+International Institute For Environment And Development,1701608.47
+Lamda Ltd (London Academy of Music & Dramatic Art),1653813.6199999999
+Bath Spa University,1619068.78
+University of Northumbria at Newcastle,1602393.24
+British Institute Of International And Comparative Law,1596441.4
+Liverpool Hope University,1591846.22
+The James Hutton Institute,1548315.32
+University of Gloucestershire,1502493.55
+NESTA,1478824.91
+British Science Association,1435260.0
+University of Aberdeen (Research Aw,1431505.53
+University of Chichester,1358372.14
+St Marys University,1330477.79
+University of Winchester,1254408.79
+Addis Ababa University,1189099.62
+SKA Organisation,1160920.0
+York St John University,1147289.56
+University of Northampton,1145630.76
+Natural History Museum,1125527.82
+Ministry of Justice (MOJ),1110656.0
+Wellcome Trust Sanger Institute,1101497.66
+The George Institute for Global Health,1093255.53
+University of Cape Town,1086413.1
+University of West London,1082274.09
+Royal Academy of Music,1035117.22
+The Welding Institute,1010461.08
+Public Health England,1008069.4400000001
+Infectious Diseases Institute,999357.1799999999
+Trinity Laban Conservatoire of Music and Dance,992974.04
+Royal Botanic Gardens Kew,984368.15
+Edinburgh Napier University,971217.49
+Wits Health Consortium (PTY) ltd,969524.77
+Diamond Light Source Ltd,962283.61
+Moredun Research Institute,951815.3300000001
+University of Pretoria,933862.62
+Moorfields Eye Hospital NHS Foundation Trust,921936.41
+FERA SCIENCE LTD (FERA),886892.9
+University Of Aston (Research Award,885675.64
+Falmouth University,882333.45
+Forest Research,879695.76
+Robert Gordon University,875736.6000000001
+Tate Galleries,872113.71
+North Wyke Research,868690.38
+Royal Academy of Dramatic Arts,851635.6799999999
+The Open University,847470.93
+Stellenbosch University,836583.1799999999
+University of Bolton,797287.15
+Daphne Jackson Trust,794849.26
+NPL Management Ltd,793461.03
+University for the Creative Arts,766745.02
+University of the Witwatersrand,761378.38
+Victoria and Albert Museum,753931.45
+Indian Council of Medical Research Headquarters,698180.76
+UKRI - Arts & Humanities Research Council,679462.55
+University of the West of Scotland,670560.98
+National Centre for Social Research,662337.22
+Historic Buildings and Monuments Commission for England T/A Historic England,655895.13
+SRUC,649147.23
+Museums Association,633125.0
+NHS Blood & Transplant,615837.8400000001
+Buckinghamshire New University (Bucks New University),597876.45
+Rhodes University,582130.8
+Universities UK,581884.0
+The Conservatoire for Dance and Drama,568648.26
+University of Northampton Enterprises Ltd,529009.34
+University of Cumbria,522557.93
+Norwich University of the Arts,518424.65
+SKA Observatory,504593.0
+University of Cape Town Lung Institute (Pty) Ltd,496782.03
+Tata Institute of Fundamental Research,487659.0
+MRC Laboratory of Molecular Biology (lmb),483937.38
+University Wales Aberystwyth,481734.02
+Historic Environment Scotland,470705.19000000006
+American University of Beirut,464734.33
+Newman University,459821.36
+Royal Meteorological Institute of Belgium,458765.82999999996
+South African Medical Research Council,446099.36000000004
+Papua New Guinea Institute of Medical Research (PNGIMR),432204.0
+Arts University Bournemouth,428723.43
+"National University of Ireland, Galway",421257.32999999996
+The Manufacturing Technology Centre Ltd,418365.3
+Royal Agricultural University,415443.91000000003
+Science Museum Group,407814.27999999997
+The Marine Biological Association of the United Kingdom,400801.82
+Leeds Trinity University,383605.8
+The University Hospital Klinikum rechts der Isar of the Technical,382576.68
+The British Museum,371155.02
+National Museums of Scotland,366895.27999999997
+Makerere University,347057.71
+"Bishop Grosseteste University College, Lincoln",347027.1
+University of St Mark & St John,345813.54000000004
+University of Malawi,343564.78
+Suerc,340315.19
+Hartpury University,339060.33999999997
+Armagh Observatory and Planetarium,330846.4
+Rose Bruford College of Theatre and Performance,330404.7
+NSPCC,322980.55
+EDINBURGH NAPIER UNIVERSITY,320807.6
+University of Lagos,304812.39
+Glasgow Caledonian University,299531.73
+CENTRE FOR PROCESS INNOVATION LTD,296100.72
+Ghana College of Physicians and Surgeons,295918.32
+Global Public Policy Institute,292898.18
+The Natural History Museum,292359.76
+SIPRI,280035.68
+NERC - British Antartic Survey,279853.21
+Writtle College,279393.12
+The British Library,270340.35
+CELL THERAPY CATAPULT LTD,263820.66000000003
+MOAB Srl,263661.75
+The Culture Capital Exchange Ltd,257629.0
+University of Suffolk Ltd,256860.08000000002
+University of Bradford (Research Aw,255161.41999999998
+Overseas Development Institute,246516.7
+Geneva Academy of International Humanitarian Law and Human Rights,243059.62
+Newcells Biotech Ltd,236858.0
+Mwanza Intervention Trials Unit,236575.67
+University of Southern Denmark,235700.0
+OFFSHORE RENEWABLE ENERGY CATAPULT,234574.77
+University of Wales Aberystwyth,231752.28
+Guyâs and St Thomasâ NHS Foundation Trust,220821.36
+ABERYSTWYTH INNOVATION AND ENTERPRISE CAMPUS LTD (AIEC),220000.0
+University of Nairobi,214182.01
+The Conversation Trust (UK) Limited,213618.0
+University of Abertay Dundee,208519.21000000002
+University of West of Scotland,208353.96
+The University of the West Indies,206460.12
+AECC University College,202617.22
+Anglia Poly University,201721.33000000002
+National University of Singapore,200954.3
+The Liverpool Institute for Performing Arts,200000.0
+LEEDS ARTS UNIVERSITY,200000.0
+Plymouth College of Art,200000.0
+Leeds Conservatoire,200000.0
+University College of Osteopathy,200000.0
+N.I.E.S.R,199025.95
+Euro-Bioimaging Eric,198398.33
+The Scottish Government,195937.6
+The National Archives,194115.95
+NHS Digital (Health and Social Care Information Centre),193061.0
+Hays Specialist Recruitment Ltd,189413.59
+Welsh Government,187642.51
+The Royal Society of Edinburgh,183179.33000000002
+University of Wales Trinity St David,182030.47999999998
+Cabi (Cabi Publishing),179814.02000000002
+University Of Dar Es Salaam,176475.01
+Historic Royal Palaces,175906.09000000003
+Curatio International Foundation,175036.99
+University of Applied Sciences of Utrecht (Hogeschool Utrecht),172713.0
+Free University Amsterdam (VU),170511.95
+Lancaster University (Research Awar,169822.98
+Animal & Plant Health Agency (APHA),158886.76
+Met Office,152757.74
+Lagos State University College of Medicine,151665.26
+University of South Wales,147530.84
+Marondera University of Agricultural Sciences and Technology,144216.06
+Royal Botanic Gardens Edinburgh,138171.98
+Washington University in St. Louis,135442.11000000002
+Behavioural Insights Ltd t/a The Behavioural Insights Team,135276.83000000002
+Ifakara Health Institute,134628.92
+STRATHMORE UNIVERSITY,131374.22
+Pearson College T/A Pearson College London,125900.0
+Research Libraries UK (RLUK),121957.2
+African Research Collaboration for Health Ltd (ARCH  KWTRP),116511.98
+GMV NSL Ltd,115151.08
+University of the Highlands and Islands,109854.67
+African Population And Health Research Center,109669.33
+SATELLITE APPLICATIONS CATAPULT LIMITED,108472.79000000001
+Oxford Instruments Nanotechnology Tools Limited,108263.26000000001
+University of Ibadan,105242.45999999999
+"CEFAS - Centre for Environment, Fisheries & Aquaculture Science",101888.66
+Glasgow School of Art,101678.83
+The National Gallery,100835.28
+STAR-Dundee Ltd,100533.35
+XCELLR8 LTD,99932.0
+IMMUONE LTD,99650.0
+Fluid Pharma Ltd,96508.0
+Coppetec Foundation Center,95000.0
+Science Media Centre,95000.0
+The London Institute,91625.87
+Obafemi Awolowo University,90404.45
+Physikalisch-Meteorologisches Observatorium Davos World Radiation Center (PMOD/WRC),87678.23000000001
+African Research Collaboration for Health Ltd (ARCH â KWTRP),87334.04
+University of Ulm,85762.56
+Clore Leadership Programme,84828.0
+Eberhard Karls Universitaet Tuebingen,83333.33
+MIMETAS BV,83333.33
+Goethe University Of Frankfurt am Main,83039.0
+Cambridge Crystallographic Data Centre,81574.84999999999
+Delft University Of Technology,80717.02
+Royal Microscopical Society,78681.61
+New York University,76113.12
+National Institute for Medical Research,76064.34
+BTO Services Ltd (British Trust For Ornithology),75617.09
+MU-JHU Care Ltd,75606.9
+CBCI Society for Medical Education,75517.95000000001
+Museum of London Archaeology,74375.67
+Bright Horizons Family Solution Ltd,73674.58
+Guys and St Thomas NHS Foundation Trust,72774.61
+Digital Catapult Services Ltd,69925.9
+Technische Universitat Braunschweig,69466.95
+University of Bern,69423.04000000001
+"University of Wales, Registry",68852.89
+Instituto de Astrofiscia de Andalucia,66960.29
+MEDICINES DISCOVERY CATAPULT LTD,64318.020000000004
+The Association for Science and Discovery Centres,62700.0
+Queen Margaret University Edinburgh,60265.33
+Zinc Ventures Ltd,60000.0
+THE DESIGN MUSEUM,59620.0
+Universite de Liege,57681.94
+University of Rwanda - Single Project Implementation Unit,57164.94
+Pontifical Catholic University of Rio de Janeiro,57148.5
+Indian Institute of Technology Madras,57145.740000000005
+Pontifical Catholic University of Ecuador (Pontificia Universidad Catolica del Ecuador),57144.61
+British Institute in Eastern Africa,57128.899999999994
+United States International University (Africa),57091.89
+Vietnam Institute of Geosciences and Mineral Resources,56999.369999999995
+UNIVERSITY OF GHANA,56984.299999999996
+University of Central Asia,56406.96
+Centro De Investigacion Y De Estudios Avanzados Del Instituto Politecnico Nacional,56007.950000000004
+Universidad Peruana Cayetano Heredia,55446.240000000005
+Cambridge University Hospitals NHS Foundation Trust (Cambridge University Hospitals),54884.1
+LTS International Ltd,53360.4
+Leiden University,52704.84
+International Water Management Institute,52589.96
+The Nuffield Foundation,52000.0
+University of Illinois at Urbana-Champaign,50507.07
+Testavec Ltd,50000.0
+Research Devices Ltd,49800.0
+Harvard University,49045.71000000001
+Deutsches Klimarechenzentrum GmbH,48187.89
+CSIC (Institut de Biologia Molecular de Barcelona),44812.78
+Wageningen University & Research,44124.85
+Manchester Imaging Ltd,42706.14
+Max Planck Institute for Solar Systems Research,42473.060000000005
+University for Development Studies,42330.02
+NERC 9704,41658.46
+Energy Systems Catapult Ltd (Energy Research Partnership),40205.23
+The National Council for Voluntary Organisations,40000.0
+Connected Places Catapult,39863.36
+VIPER RF LTD,38480.29
+Physikalisch-Technische Bundesanstalt,38225.65
+Institute of Business Administration Karachi,38102.66
+National Trust,37869.67
+Monash University,36139.69
+University of Valencia,35808.0
+Scottish Universities Environmental Research Centre,35268.75
+Active Space Technologies S.A.,35250.229999999996
+HR Wallingford Ltd,34482.86
+Centre National de la Recherche Scientifique (CNRS),33288.61
+Interfolio UK Ltd,32808.78
+Control Loop Concepts Limited,32620.0
+Global Phasing Ltd,32000.0
+University Hospitals Coventry & Warwickshire NHS Trust,31419.870000000003
+Royal Observatory of Belgium,30934.55
+Thomas Keating Ltd,30916.0
+University Hospitals Birmingham NHS Foundation Trust,30237.38
+Cumbria Local Enterprise Partnership,30000.0
+SOKOINE UNIVERSITY OF AGRICULTURE (SUA),29000.0
+Mariene Informatie Service Maris Bv,27903.31
+Roehampton University,26623.800000000003
+Institut Teknologi Bandung,25097.0
+ICLEI AFRICA,24664.879999999997
+Birkbeck University of London,23752.0
+Netherlands Cancer Institute,22560.65
+Armagh Observatory and Planetarium.,22292.93
+ACTIVE NEEDLE TECHNOLOGY LTD,21101.0
+NERC - British Geological Survey,20966.9
+University of Geneva,20165.49
+Institute of Occupational Medicine,20081.35
+National Museums Liverpool,19799.08
+Gallomanor Communications Ltd,19750.0
+OHB System AG,19547.57
+Foundation for Research in Health,18392.19
+Airbus Defence and Space Ltd,18000.0
+Psi-K Network,17478.440000000002
+Tufts University,16937.21
+Graz University of Technology,16807.08
+Creative Space Science CIC,15000.0
+SEI Oxford Office Ltd,14575.21
+The Cure Parkinson's Trust,14468.55
+Centre for Sustainable Agriculture,14240.0
+TRANSPORT SYSTEMS CATAPULT,14200.95
+Oxford University Hospitals NHS Trust,14189.06
+Sphere Science Ltd,14109.39
+START International Inc,14045.78
+Stichting OA Switchboard,13858.81
+INSTITUTION OF MECHANICAL ENGINEERS,12500.0
+University of Zurich,12166.52
+Edinburgh Science Ltd,11770.8
+University of California Regents,11729.74
+Institute of Science and Technology Austria,11268.99
+Aerospace Bristol,11218.5
+We The Curious Ltd,11140.5
+CNRS - Delegation Midi-Pyrenees,10898.47
+LUCIDEON LTD,10000.0
+Seagate Technology (Ireland) Ltd,10000.0
+Wave Hub Ltd,10000.0
+Exeter Science Centre Community Interest Company,9356.25
+Netherlands Organisation for Scientific Research,9288.09
+Kent Surrey Sussex AHSN Ltd,8717.0
+"Darwin College, University of Cambridge",8589.0
+SANGATH,8529.73
+The Research Foundation for The State University of New York,8138.12
+Digital Science and Research Solutions Inc,7104.0
+Marine Scotland Science,7100.43
+New Music in the South West,6522.25
+International Centre for Life Trust,6400.0
+National Maritime Museum,6014.42
+LIMINAL SPACE ASSOCIATES LTD,6000.0
+A/V Revolution Ltd,6000.0
+The Oxford Farming Conference,6000.0
+Fonds de Recherche du Quebec (Nature et technologies),5938.26
+Stanford Research Systems Inc,5483.620000000001
+Institut de Recherche pour le Developpement,5466.68
+Fermilab,5260.9800000000005
+RSPB (Royal Society For The Protection Of Birds),5093.73
+Innovations for Poverty Action,5012.7
+Action for M.E.,5000.0
+"Hertford College, University of Oxford",5000.0
+Engineering Development Trust (EDT),4980.15
+Wageningen University,4821.76
+Kulima Integrated Development Solutions (Pty) Ltd,4441.6
+Red Cross Red Crescent Climate Centre,4178.43
+Dell Corporation Ltd,3998.2
+JCR Systems Ltd,3732.0
+Centre for Facilitation Ltd,3600.0
+RS Components,3548.6
+Ignite Futures Ltd,3000.0
+Oxfordshire Science Festival,3000.0
+Students Organising for Sustainability UK,3000.0
+Thorlabs Ltd,2989.6
+SurfaceNet GmbH,2881.39
+AstroCymru Ltd,2795.0
+STI International Consulting and Research GmbH,2308.82
+Oregon State University,1826.09
+Premier Farnell UK Ltd T/A Farnell Onecall,1655.49
+Morrison Glasgow Distillers Ltd t/a The Clydeside Distillery,1652.0
+NORTH CAROLINA STATE UNIVERSITY - SPARCS,1603.46
+SciMed Ltd,1602.0
+PosAbilities Ltd,1400.0
+Laser 2000 (UK) Ltd,1356.6
+Thames Restek Uk Ltd,1161.37
+Cairn Research Ltd,935.3600000000001
+Saffron Interactive Ltd,900.0
+VWR International Ltd,861.6999999999999
+Gilbert Curry Industrial Plastics Co Ltd,209.41
+North Wales Science T/A Xplore!,183.75
+Merck Life Science UK Ltd,153.32
+Sercon Ltd,135.8
+Fisher Scientific UK Ltd,122.48
+Rapid Electronics Ltd,109.61000000000001
+London Fluid System Technologies Ltd T/A Swagelok London,106.46
+Lasermet Ltd,53.4
+Generon Ltd,31.97
+Scientific Laboratory Supplies Ltd (Sls),21.99
+Banner Group Ltd,12.02
+Atos IT Services UK Ltd,0.0
+CERN (EUROPEAN ORGANIZATION FOR NUCLEAR RESEARCH),-1895.72
+Herschel House Trust,-24545.4
