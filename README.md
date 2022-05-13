@@ -6,7 +6,12 @@ The project is split into two parts, the data extraction and cleaning, and the m
 The data is sourced from The Complete University Guide (https://www.thecompleteuniversityguide.co.uk/league-tables/rankings?tabletype=full-table&sortby=student-staff-ratio) and the UKRI transparency reports (https://www.ukri.org/about-us/what-we-do/financial-data/). This data was downloaded on 12/05/2022 and may change in the URL's linked. As such the final dataframe (after data cleaning) is saved in this repository before being used for modelling.
 
 
-ML_UK_university_funding.ipynb          - Machine learning on the datasets juypter notebook.
+ML_UK_university_funding.ipynb          - Machine learning on the datasets juypter notebook. 
+
 University_funding_data_cleaning.ipynb  - Data download and cleaning juypter notebook.
+
 UKRI_spending_df.csv                    - UKRI spening data after cleaning.
+
+institute_grants.csv                    - Total grant money awarded to each institute in 2022 by the UKRI.
+
 institute_scores_df.csv                 - Univeristy league table data after cleaning.
