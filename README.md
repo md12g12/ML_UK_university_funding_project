@@ -10,8 +10,4 @@ ML_UK_university_funding.ipynb          - Machine learning on the datasets juypt
 
 University_funding_data_cleaning.ipynb  - Data download and cleaning juypter notebook.
 
-UKRI_spending_df.csv                    - UKRI spening data after cleaning.
-
-institute_grants.csv                    - Total grant money awarded to each institute in 2022 by the UKRI.
-
-institute_scores_df.csv                 - Univeristy league table data after cleaning.
+funding_ML_df.csv.csv                   - Dataframe with the universities scores as well as their total UKRI grants for the year 2022.
